@@ -1,7 +1,0 @@
-0 start: 2025-05-23 20:51:00+01:00 🕯️ Candle lighting
-1 start: 2025-05-24 Parashat Behar-Bechukotai
-2 start: 2025-05-24 Mevarchim Chodesh Sivan
-3 start: 2025-05-24 22:19:00+01:00 ✨ Havdalah
-4 start: 2025-05-26 🇮🇱 Yom Yerushalayim
-5 start: 2025-05-28 🌒 Rosh Chodesh Sivan
-6 start: 2025-05-30 21:00:00+01:00 🕯️ Candle lighting
